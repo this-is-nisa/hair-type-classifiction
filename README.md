@@ -1,6 +1,6 @@
 # Hair Type Classification and Feature Analysis
 
-**Status:** Actively in progress. I am actively adding new analysis, experiments, and updates
+**Status:** In progress. I am actively adding new analysis, experiments, and updates
 
 **Description:** This project will train a convolutional neural network to classify hair images into four major hair texture categories: straight, wavy, curly, and kinky. Using the same dataset, I will perform feature extraction (curl tightness, texture, and strand density) and unsupervised clustering to explore whether finer hair patterns, consistent with the Andre Walker hair typing system (1A-4C), can be identified in feature space. The project emphasizes analysis and interpretation rather than creating new labeled data.
 
